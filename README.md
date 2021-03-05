@@ -1,6 +1,6 @@
 # COMP383 Computational Biology MiniProject Assignment
 
-## Needed to run python script
+## **Needed to run python script:**
 ### Languages:
 Both Python3 and R must be installed for use in terminal
 ### Command Line Programs:
@@ -11,7 +11,7 @@ You will need Kallisto, Sleuth, Bowtie2, SPAdes, and BLAST+. Download links belo
 - [Download SPAdes](https://cab.spbu.ru/software/spades/)
 - [Download BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
 
-## How to use the code:
+## **How to use the code:**
 Upon cloning the repo, simply use python3 to run the script with the following command in the linux terminal:
 
 `python3 miniProject_amazher.py`
